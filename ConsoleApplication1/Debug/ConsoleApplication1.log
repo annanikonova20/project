@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+d:\temp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+d:\temp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> D:\temp\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\temp\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
