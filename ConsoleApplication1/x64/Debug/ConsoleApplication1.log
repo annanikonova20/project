@@ -1,5 +1,5 @@
 ﻿  ConsoleApplication1.cpp
-d:\temp\consoleapplication1\project\consoleapplication1\consoleapplication1.cpp(102): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-d:\temp\consoleapplication1\project\consoleapplication1\consoleapplication1.cpp(109): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\temp\consoleapplication1\project\consoleapplication1\consoleapplication1.cpp(159): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\temp\consoleapplication1\project\consoleapplication1\consoleapplication1.cpp(166): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
   ConsoleApplication1.vcxproj -> D:\temp\ConsoleApplication1\project\x64\Debug\ConsoleApplication1.exe
   ConsoleApplication1.vcxproj -> D:\temp\ConsoleApplication1\project\x64\Debug\ConsoleApplication1.pdb (Full PDB)
